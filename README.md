@@ -1,2 +1,2 @@
 # Delivery-Service-Management
-OSG framework
+OSGi framework - Java
