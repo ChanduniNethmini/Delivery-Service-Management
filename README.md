@@ -1,2 +1,2 @@
-# Delivery-Service-Management
+# Kings Hotel - Delivery Management
 OSGi framework - Java
